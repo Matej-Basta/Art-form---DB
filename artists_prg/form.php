@@ -11,7 +11,7 @@
 
     <h1>Add a new artist</h1>
     
-    <form class="artist-form" action="" method="post">
+    <form class="artist-form" action="store.php" method="post">
         <div>
         <label for="name">Name:</label>
         <input type="text" name="name" id="name" value="">
